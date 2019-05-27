@@ -15,3 +15,4 @@ void Gun::GunType()
 {
 	cout << "나 보기싫음 virtual 써야한다" << endl;
 }
+ 

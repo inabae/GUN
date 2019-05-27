@@ -1,4 +1,4 @@
-#pragma once
+ #pragma once
 #include "Gun.h"
 
 class SR : public Gun

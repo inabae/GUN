@@ -8,4 +8,4 @@ M416::M416(string inputName, string inputbulletType) : AR(inputName, inputbullet
 void M416::UseBulletType()
 {
 	cout << bulletType << "을 사용한다." << endl;
-}
+} 

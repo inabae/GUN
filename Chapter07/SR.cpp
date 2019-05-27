@@ -1,4 +1,4 @@
-#include "SR.h"
+#include "SR.h" 
 
 SR::SR(string inputgunName, string inputbulletType) : Gun(inputgunName, inputbulletType)
 {

@@ -12,4 +12,4 @@ void SMG::GunType()
 void SMG::UseBulletType()
 {
 
-}
+} 

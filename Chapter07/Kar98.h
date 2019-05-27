@@ -6,4 +6,4 @@ class Kar98 : public SR
 public:
 	Kar98(string inputName, string inputbulletType);
 	virtual void UseBulletType();
-};
+}; 

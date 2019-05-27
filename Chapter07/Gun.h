@@ -13,4 +13,4 @@ public:
 protected:
 	string gunName;
 	string bulletType; // ÃÑÅº Á¾·ù(7.62, 9, .45, 5.56...)
-};
+}; 

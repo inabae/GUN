@@ -12,4 +12,4 @@ void AR::GunType()
 void AR::UseBulletType()
 {
 
-}
+} 

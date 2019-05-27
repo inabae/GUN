@@ -8,4 +8,4 @@ Kar98::Kar98(string inputName, string inputbulletType) : SR(inputName, inputbull
 void Kar98::UseBulletType()
 {
 	cout << bulletType << "을 사용한다." << endl;
-}
+} 

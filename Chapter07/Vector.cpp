@@ -8,4 +8,4 @@ Vector::Vector(string inputName, string inputbulletType) : SMG(inputName, inputb
 void Vector::UseBulletType()
 {
 	cout << bulletType << "을 사용한다." << endl;
-}
+} 

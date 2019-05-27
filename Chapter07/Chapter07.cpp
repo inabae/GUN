@@ -23,4 +23,4 @@ int main()
 
 	Vector vector("Vector", ".45");
 	PrintShot(vector);
-}
+} 

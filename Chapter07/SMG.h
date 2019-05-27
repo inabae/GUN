@@ -7,4 +7,4 @@ public:
 	SMG(string inputgunName, string inputbulletType);
 	virtual void GunType();
 	virtual void UseBulletType();
-};
+}; 
